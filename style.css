@@ -1,0 +1,24 @@
+.header_div{
+    background-color: rgb(238, 189, 130);
+    color:brown;
+    letter-spacing: 3px;
+    margin:0;
+}
+.main_div{
+    background-color: lightskyblue;
+}
+body{
+    font-family: 'Readex Pro', sans-serif;
+
+}
+#p{
+    font-size:20px;
+}
+.div_footer{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    line-height:3;
+    background-color: rgb(238, 189, 130);
+    color:brown;
+}
